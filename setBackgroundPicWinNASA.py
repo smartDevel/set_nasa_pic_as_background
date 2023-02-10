@@ -8,6 +8,7 @@ import json
 url = "https://api.nasa.gov/planetary/apod?api_key=DEMO_KEY"
 
 # windows full file path 
+# adjust this to your environment
 WIN_FILEPATH = "D:\\scripts\\win\\setBackgroundPicNASA\\bg_wallpaper.jpg"
 
 # Request the data from the API
